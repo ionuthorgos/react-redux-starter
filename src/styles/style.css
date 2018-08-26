@@ -1,0 +1,14 @@
+#app {
+  font: 14px 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  color: black;
+  min-width: 550px;
+}
+a.active {
+  color:orange;
+}
+nav {
+  padding-top: 20px;
+}
+.jumbotron{
+  width:20%;
+}
